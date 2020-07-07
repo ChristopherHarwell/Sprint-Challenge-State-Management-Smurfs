@@ -4,7 +4,7 @@ export const initialState = {
         name: "Chris",
         age: 200,
         height: "5cm",
-        id: 0,
+        id: 1,
       },
     ],
     isFetching: false,

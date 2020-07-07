@@ -57,10 +57,6 @@ const AddSmurf = (props) => {
           onChange={inputChanged}
         />
       </label>
-      <br />
-      <button type="submit" onClick={handleSubmit}>
-        Add Smurf
-      </button>
     </>
   );
 };
